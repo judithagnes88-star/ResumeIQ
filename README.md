@@ -51,3 +51,17 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 11. **Resume Health Scorecard**: Interactive checklist simulating point gains as fixes are applied.
 12. **Technical Interview Preparation**: Tailored technical, project, and behavioral questions with sample responses.
 13. **Archival Export**: Instant PDF, JSON, and Markdown downloads.
+
+## 📸 Project Screenshots
+
+### Executive Overview
+
+![Executive Overview](screenshots/overview.png)
+
+### Analyze Resume
+
+![Analyze Resume](screenshots/analyzer.png)
+
+### Resume Analysis Dashboard
+
+![Resume Analysis](screenshots/analyze-resume.png)
