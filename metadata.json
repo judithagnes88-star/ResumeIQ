@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ — AI Resume & Career Intelligence Platform",
+  "description": "Advanced career intelligence platform featuring multi-role fit radar, ATS simulation, bullet impact rewriter, skill gap roadmap, recruiter 6-second scan simulation, GitHub consistency check, and explainable AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
