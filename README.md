@@ -58,10 +58,14 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ![Executive Overview](screenshots/overview.png)
 
-### Analyze Resume
+### Resume Analyzer
 
-![Analyze Resume](screenshots/analyzer.png)
+![Resume Analyzer](screenshots/analyzer.png)
 
 ### Resume Analysis Dashboard
 
-![Resume Analysis](screenshots/analyze-resume.png)
+![Resume Analysis Dashboard](screenshots/analyze-resume.png)
+
+### 6S Scan
+
+![6S Scan](screenshots/6s-Scan.png)
